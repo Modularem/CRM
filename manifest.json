@@ -31,9 +31,9 @@
    "src": "misc/icon16.png"
   }
  ],
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
+ "name": "casa rm",
  "background_color": "#FFFFFF",
+ "display": "fullscreen",
  "start_url": "index.htm",
- "name": "casa rm"
+ "theme_color": "#FFFFFF"
 }
