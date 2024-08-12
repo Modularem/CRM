@@ -1,6 +1,6 @@
 {
  "name": "casa rm",
- "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -33,7 +33,7 @@
    "src": "misc/icon16.png"
   }
  ],
+ "display": "fullscreen",
  "background_color": "#FFFFFF",
- "start_url": "index.htm",
- "display": "fullscreen"
+ "theme_color": "#FFFFFF"
 }
