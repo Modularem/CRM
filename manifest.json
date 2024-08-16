@@ -1,4 +1,6 @@
 {
+ "start_url": "index.htm",
+ "name": "casa rm",
  "icons": [
   {
    "type": "image/png",
@@ -31,9 +33,7 @@
    "src": "misc/icon16.png"
   }
  ],
- "background_color": "#FFFFFF",
- "name": "casa rm",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen",
- "start_url": "index.htm",
- "theme_color": "#FFFFFF"
+ "background_color": "#FFFFFF"
 }
